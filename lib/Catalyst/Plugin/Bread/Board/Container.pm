@@ -3,7 +3,7 @@ use Moose;
 use Bread::Board;
 use MooseX::Types::Path::Class;
 
-our $VERSION   = '0.02';
+our $VERSION   = '0.03';
 our $AUTHORITY = 'cpan:STEVAN';
 
 extends 'Bread::Board::Container';
